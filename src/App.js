@@ -1,19 +1,12 @@
 import React from 'react';
 import './App.css';
+import './Header.js';
+
 
 function App() {
   return (
     <div className="App">
     <body>
-        <nav>
-          <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/Welcome">Welcome</a></li>
-          </ul>
-        </nav>
-        <header>
-          <h1>Welcome to Sally Student's resume page!</h1>
-        </header>
         <main>  
           <section>
             <header>
